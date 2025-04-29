@@ -8,6 +8,7 @@ openai==1.3.0
 requests==2.31.0
 python-dotenv
 chromadb
+senetence-transformer
 # Frontend requirements
 streamlit==1.29.0
 
