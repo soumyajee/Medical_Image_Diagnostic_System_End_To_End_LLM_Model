@@ -9,7 +9,7 @@ requests==2.31.0
 python-dotenv
 chromadb
 streamlit==1.29.0
-
+sentence-transformers
 
 
 # langchain==0.3.13
